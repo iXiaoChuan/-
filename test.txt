@@ -1,0 +1,22 @@
+-- 错误处理(*
+try
+	display dialog "您确定要在桌面上创建名为\"AppleScript\"的文件夹么?"
+	tell application "Finder"
+		make new folder at desktop with properties {name:"AppleScript Folder"}
+	end tell
+	
+on error eText number eNum
+	if (eNum = -48) then
+		display dialog "发生文件错误,错误内容为:" & eText
+	else if (eNum = -128) then
+		display dialog "您按下了取消按钮,错误内容为:" & eText
+	end if
+	
+end try
+*)-- 超时(*
+with timeout of 5 seconds
+	display dialog "我最多等待你5秒~" buttons {"好的", "好的"} with title "超时检测"
+end timeout
+display dialog "你确实在5秒内做出了响应!"
+error "自定义的一个错误" number 999
+*)-- Alias类型文件set myAlias1 to alias "Macintosh HD:Users:xiaochuan:ZJC_读书笔记......:《AppleScript初学者(中文版)》.scpt"display dialog "选取的文件路径:\n" & myAlias1--read myAlias1 from 1000--read myAlias1 for 100--read myAlias1 to 100--read myAlias1 before 100--read myAlias1 until "set"read myAlias1 using delimiter "..."--read myAlias1 as text
