@@ -1,4 +1,4 @@
--- 错误处理(*
+abc错误处理(*
 try
 	display dialog "您确定要在桌面上创建名为\"AppleScript\"的文件夹么?"
 	tell application "Finder"
