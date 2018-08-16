@@ -6,8 +6,8 @@
 
 整理和归类看书、学习的读书笔记、思维导图、学习心得等。目录如下：
 
-* [一、 读书学习笔记](#一、读书学习笔记)
-	* [1. 技术类](#1. 技术类)
+* [读书学习笔记](#读书学习笔记)
+	* [技术类](#技术类)
 		* [1.1 iOS](#notes-tec-ios)
 		* [1.2 Other Language](#notes-tec-other)
 		* [1.3 思维培养](#notes-tec-thought)
@@ -16,13 +16,13 @@
 	* [1. 技术](#blog-tec)
 	* [2. 其他](#blog-other)
 
-## 一、读书学习笔记
+## 读书学习笔记
 
-### 1. 技术类
+### 技术类
 
-#### 1.1 iOS
+#### iOS
 
-#### 1.2 Other Language
+#### Other Language
 [《Linux与Unix shell编程指南》]()        </br>
 [《Unix shell范例精解》（第四版）]( )     </br>
 [《汇编基础教程》]( )                    </br>
