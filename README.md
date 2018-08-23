@@ -26,6 +26,7 @@
 《Linux与Unix shell编程指南》                                                        </br>
 《Unix shell范例精解》（第四版）                                                      </br>
 《汇编基础教程》                                                                     </br>
+《HTTP权威指南》                                                                    </br>
 <font color="#86DA46">已结_《AppleScript初学者(中文版)》</font>                       </br>
 
 <h4 id="1.1.3">1.3 思维培养、工具学习</h4>
@@ -38,6 +39,7 @@
 《宋大叔教乐理》                                                                     </br>
 <font color="#86DA46">已结_《厚黑学》</font>                                         </br>
 <font color="#86DA46">已结_《男人来自火星，女人来自金星》</font>                        </br>
+<font color="#86DA46">已结_《高山上的小邮局》</font>                                  </br>
 
 <h2 id="2">二、 博客研读笔记</h2>
 
