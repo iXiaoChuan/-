@@ -28,24 +28,28 @@
 《Unix shell范例精解》（第四版）                                                      </br>
 《汇编基础教程》                                                                     </br>
 《HTTP权威指南》                                                                    </br>
-<font color="#86DA46">已结_《AppleScript初学者(中文版)》</font>                       </br>
+<font color="#86DA46">已结《AppleScript初学者(中文版)》</font>                       </br>
 
 <h4 id="1.1.3">1.3 技术思维、技术工具</h4>
 
-<font color="#86DA46">已结_《程序员修炼之道 从小工到专家》</font>                        </br>
-<font color="#86DA46">已结_《OmniGraffle使用教程》</font>                             </br>
+<font color="#86DA46">已结《程序员修炼之道 从小工到专家》</font>                        </br>
+<font color="#86DA46">已结《OmniGraffle使用教程》</font>                             </br>
 
 <h3 id="1.2">2. 其他(文史、艺术、小说、社科、心理......)</h3>
 
-《傅雷家书》                                                                         </br>
+
 《简单冥想术·激活你的潜在创造力》                                                       </br>
 《你的降落伞是什么颜色》                                                               </br>
 《宋大叔教乐理》                                                                     </br>
-<font color="#86DA46">已结_《追风筝的人》</font>                                     </br>
-<font color="#86DA46">已结_《厚黑学》</font>                                         </br>
-<font color="#86DA46">已结_《男人来自火星，女人来自金星》</font>                        </br>
-<font color="#86DA46">已结_《高山上的小邮局》</font>                                  </br>
-<font color="#86DA46">已结_《亲密关系》</font>                                       </br>
+<!-- <font color="#86DA46">已结《活着》</font>                                     </br> -->
+<font color="#86DA46">已结《傅雷家书》</font>                                     </br>
+<font color="#86DA46">已结《追风筝的人》</font>                                     </br>
+<font color="#86DA46">已结《群山回唱》</font>                                     </br>
+<font color="#86DA46">已结《灿烂千阳》</font>                                     </br>
+<font color="#86DA46">已结《厚黑学》</font>                                         </br>
+<font color="#86DA46">已结《男人来自火星，女人来自金星》</font>                        </br>
+<font color="#86DA46">已结《高山上的小邮局》</font>                                  </br>
+<font color="#86DA46">已结《亲密关系》</font>                                       </br>
 
 
 <h2 id="2">二、 博客研读笔记</h2>
