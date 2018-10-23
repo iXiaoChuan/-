@@ -43,9 +43,7 @@
 《宋大叔教乐理》                                                                     </br>
 <!-- <font color="#86DA46">已结《活着》</font>                                     </br> -->
 <font color="#86DA46">已结《傅雷家书》</font>                                     </br>
-<font color="#86DA46">已结《追风筝的人》</font>                                     </br>
-<font color="#86DA46">已结《群山回唱》</font>                                     </br>
-<font color="#86DA46">已结《灿烂千阳》</font>                                     </br>
+<font color="#86DA46">已结《追风筝的人》、《群山回唱》、《灿烂千阳》</font>                                     </br>
 <font color="#86DA46">已结《厚黑学》</font>                                         </br>
 <font color="#86DA46">已结《男人来自火星，女人来自金星》</font>                        </br>
 <font color="#86DA46">已结《高山上的小邮局》</font>                                  </br>
