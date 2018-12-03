@@ -43,11 +43,11 @@
 《简单冥想术·激活你的潜在创造力》                                                       </br>
 《你的降落伞是什么颜色》                                                               </br>
 《宋大叔教乐理\_视频教程》                                                             </br>
-《赢在下班后》                                                                       </br>
 《人类简史》                                                                         </br>
+<font color="#86DA46">已结《赢在下班后》</font>                                       </br>
 <font color="#86DA46">已结《海滩上的爱伊斯坦》</font>                                  </br>
 <font color="#86DA46">已结《活着》</font>                                            </br>
-<font color="#86DA46">已结《傅雷家书》</font>                                        </br>
+<font color="#86DA46">已结《傅雷家书》</font>                                         </br>
 <font color="#86DA46">已结《追风筝的人》、《群山回唱》、《灿烂千阳》</font>                                     </br>
 <font color="#86DA46">已结《厚黑学》</font>                                         </br>
 <font color="#86DA46">已结《男人来自火星，女人来自金星》</font>                        </br>
