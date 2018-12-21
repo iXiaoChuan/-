@@ -26,9 +26,9 @@
 
 《Linux与Unix shell 编程指南》                                                       </br>
 《Unix shell 范例精解(第四版)》                                                       </br>
-《HTTP权威指南》                                                                     </br>
 《汇编基础教程》\_视频教程                                                             </br>
 《PHP全栈·布尔学院》\_视频教程                                                         </br>
+<font color="#86DA46">已结《《HTTP权威指南》</font>                                   </br>
 <font color="#86DA46">已结《AppleScript初学者(中文版)》</font>                        </br>
 <font color="#86DA46">已结《程序员修炼之道 从小工到专家》</font>                        </br>
 <font color="#86DA46">已结《OmniGraffle使用教程》</font>                             </br>
