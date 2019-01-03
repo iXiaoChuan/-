@@ -24,22 +24,13 @@
 
 <h4 id="1.1.2">1.2 其他</h4>
 
-《Linux与Unix shell 编程指南》                                                       </br>
-《Unix shell 范例精解(第四版)》                                                       </br>
-《汇编基础教程》\_视频教程                                                             </br>
-《PHP全栈·布尔学院》\_视频教程                                                         </br>
-<font color="#86DA46">已结《《HTTP权威指南》</font>                                   </br>
+<font color="#86DA46">已结《HTTP权威指南》</font>                                   </br>
 <font color="#86DA46">已结《AppleScript初学者(中文版)》</font>                        </br>
 <font color="#86DA46">已结《程序员修炼之道 从小工到专家》</font>                        </br>
 <font color="#86DA46">已结《OmniGraffle使用教程》</font>                             </br>
 
 <h3 id="1.2">2. 其他</h3>
 
-《寻路中国·从乡村到工厂的自驾之旅》                                                     </br>
-《简单冥想术·激活你的潜在创造力》                                                       </br>
-《你的降落伞是什么颜色》                                                               </br>
-《宋大叔教乐理》\_视频教程                                                             </br>
-《人类简史》                                                                         </br>
 <font color="#86DA46">已结《万历十五年》</font>                                       </br>
 <font color="#86DA46">已结《赢在下班后》</font>                                       </br>
 <font color="#86DA46">已结《海滩上的爱伊斯坦》</font>                                  </br>
